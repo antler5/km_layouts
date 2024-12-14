@@ -1,0 +1,1067 @@
+{
+  "name": "Custom",
+  "authors": [],
+  "note": null,
+  "format": [
+    {
+      "finger": [
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "ⁱ",
+        "ʳ"
+      ]
+    },
+    {
+      "finger": [
+        "LR"
+      ],
+      "layer": 0,
+      "keys": [
+        "‡",
+        "ᵉ"
+      ]
+    },
+    {
+      "finger": [
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "†",
+        "ˡ"
+      ]
+    },
+    {
+      "finger": [
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵃ",
+        "ᵗ"
+      ]
+    },
+    {
+      "finger": [
+        "LT"
+      ],
+      "layer": 0,
+      "keys": [
+        "ⁿ",
+        " "
+      ]
+    },
+    {
+      "finger": [
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        " ",
+        "n"
+      ]
+    },
+    {
+      "finger": [
+        "RI"
+      ],
+      "layer": 0,
+      "keys": [
+        "a",
+        "t"
+      ]
+    },
+    {
+      "finger": [
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "†",
+        "l"
+      ]
+    },
+    {
+      "finger": [
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "‡",
+        "e"
+      ]
+    },
+    {
+      "finger": [
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "i",
+        "r"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "d"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LT",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LI",
+        "LR"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵏ"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RP",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LM",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵘ"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RP",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵈ"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RT",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "ʷ"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "g"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "ʲ"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "m"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "f"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RI",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LT"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵖ"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "𐞥"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "v"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LR",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LM",
+        "LI",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RM",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RM",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LM",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LT",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LI",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵍ"
+      ]
+    },
+    {
+      "finger": [
+        "LI",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RM",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵒ"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RP",
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LI",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LT",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LI",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LR",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "h"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "y"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "w"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LT",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RT",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "p"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᶻ"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RP",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RT",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "q"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LR",
+        "LT"
+      ],
+      "layer": 0,
+      "keys": [
+        "z"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LI",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "ʰ"
+      ]
+    },
+    {
+      "finger": [
+        "LT",
+        "LM",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LR",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LI",
+        "LT"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵛ"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵐ"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RI",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RM",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᵇ"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RM",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LT",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LT",
+        "LR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RP",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RT",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RP",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LM",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LT",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RP",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RM",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LI",
+        "LR"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᶜ"
+      ]
+    },
+    {
+      "finger": [
+        "RM",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "j"
+      ]
+    },
+    {
+      "finger": [
+        "RP",
+        "RI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "u"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RI"
+      ],
+      "layer": 0,
+      "keys": [
+        "c"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LT"
+      ],
+      "layer": 0,
+      "keys": [
+        "ˢ"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RI",
+        "RM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LT",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LT",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LR",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LT",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "b"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RR"
+      ],
+      "layer": 0,
+      "keys": [
+        "k"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RI"
+      ],
+      "layer": 0,
+      "keys": [
+        "o"
+      ]
+    },
+    {
+      "finger": [
+        "LT",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LM",
+        "LP"
+      ],
+      "layer": 0,
+      "keys": [
+        "ᶠ"
+      ]
+    },
+    {
+      "finger": [
+        "RI",
+        "RP"
+      ],
+      "layer": 0,
+      "keys": [
+        "ˣ"
+      ]
+    },
+    {
+      "finger": [
+        "LP",
+        "LR"
+      ],
+      "layer": 0,
+      "keys": [
+        "ʸ"
+      ]
+    },
+    {
+      "finger": [
+        "LI",
+        "LR",
+        "LM"
+      ],
+      "layer": 0,
+      "keys": [
+        "x"
+      ]
+    },
+    {
+      "finger": [
+        "RR",
+        "RM",
+        "RT"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    },
+    {
+      "finger": [
+        "LR",
+        "LM",
+        "LI"
+      ],
+      "layer": 0,
+      "keys": [
+        "�"
+      ]
+    }
+  ]
+}
